@@ -1,5 +1,5 @@
 # Windows XP Source Code
-
+# dawg why did q8j do ts 😭
 This repository contains the source tree for the Windows NT 5.1 / XP codebase (codename **Whistler**; this drop is the **Amarillo** / XP SP1 branch). It is a complete operating-system source tree — kernel, drivers, core subsystems, shell, Internet Explorer, IIS, networking stack, Terminal Services, Active Directory, DirectX, and the NT SDK/DDK public headers.
 
 ## Scale
